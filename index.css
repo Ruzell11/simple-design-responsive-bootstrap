@@ -75,7 +75,7 @@ body{
     border-right: none !important;
 }
 .sec1{
-    background-image: url('/images/dd.jpg');
+    background-image: url('images/dd.jpg');
     height: 60vh;
     object-fit: contain !important;
     background-position: center;
